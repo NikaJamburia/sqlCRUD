@@ -76,7 +76,8 @@ namespace SqlDavaleba
                 DateTime date = DateTime.Today;
                 string sqlDate = date.ToString("yyyy-MM-dd");
 
-                string query = "INSERT INTO dbo.Klientebi(saxeli, gvari, pir_nomeri, gadaxdis_tarigi, darbazi_fk, abonimenti_fk) VALUES (@firstname, @lastname, @idn, @date, @gym_id, @aboniment_id)";
+                
+                string query = "EXEC [dbo].[stpInsertClient] @firstname, @lastname, @idn, @date, @gym_id, @aboniment_id";
                 using (SqlConnection conn = new SqlConnection(conn_str))
                 {
                     conn.Open();

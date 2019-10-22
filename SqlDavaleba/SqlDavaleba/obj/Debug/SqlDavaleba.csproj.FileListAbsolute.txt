@@ -8,3 +8,13 @@ c:\users\user\documents\visual studio 2015\Projects\SqlDavaleba\SqlDavaleba\obj\
 c:\users\user\documents\visual studio 2015\Projects\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.exe
 c:\users\user\documents\visual studio 2015\Projects\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.pdb
 c:\users\user\documents\visual studio 2015\Projects\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.AddClient.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\bin\Debug\SqlDavaleba.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\bin\Debug\SqlDavaleba.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\bin\Debug\SqlDavaleba.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.AddClient.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\sqlCRUD\SqlDavaleba\SqlDavaleba\obj\Debug\SqlDavaleba.csproj.GenerateResource.Cache
